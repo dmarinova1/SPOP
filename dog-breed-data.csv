@@ -1,0 +1,151 @@
+height_low_inch,height_high_inch,weight_low_lbs,weight_high_lbs,intelligence,obey_commands,Breed
+26,28,80,120,Average Working/Obedience Intelligence,,Akita
+27,29,100,150,,,Anatolian Sheepdog
+23,27,85,110,Excellent Working Dogs,85%,Bernese Mountain Dog
+24,26,80,120,Lowest Degree of Working/Obedience Intelligence,,Bloodhound
+26,28,70,100,Lowest Degree of Working/Obedience Intelligence,,Borzoi
+25,27,100,130,Fair Working/Obedience Intelligence,,Bullmastiff
+32,32,120,160,Average Working/Obedience Intelligence,,Great Dane
+27,32,95,120,Fair Working/Obedience Intelligence,,Great Pyrenees
+23,28,130,150,,,Great Swiss Mountain Dog
+28,35,90,150,Average Working/Obedience Intelligence,,Irish Wolfhound
+28,30,70,120,Average Working/Obedience Intelligence,,Kuvasz
+27,30,175,190,Lowest Degree of Working/Obedience Intelligence,,Mastiff
+24,30,100,150,,,Neopolitan Mastiff
+26,28,100,150,Above Average Working Dogs,,Newfoundland
+24,26,65,110,,,Otter Hound
+22,27,90,110,,95%,Rottweiler
+25,28,110,190,,,Saint Bernard
+25,27,50,60,,,Afghan Hound
+NA,NA,NA,NA,,,Alaskan Malamute
+22,25,65,70,,,American Foxhound
+24,27,100,120,,,Beauceron
+22,26,60,65,,85%,Belgian Malinois
+22,26,60,75,,85%,Belgian Sheepdog
+22,26,60,75,,,Belgian Tervuren
+23,27,50,75,,,Black And Tan Coonhound
+25,29,80,140,,,Black Russian Terrier
+23,27,75,95,,,Bouvier Des Flandres
+21,25,65,70,,,Boxer
+23,27,74,76,,,Briard
+21,26,55,75,,70%,Chesapeake Bay Retriever
+19,20,35,65,,,Clumber Spaniel
+22,26,50,75,,85%,Collie (Rough) & (Smooth)
+25,27,65,80,,,Curly Coated Retriever
+26,28,60,100,,95%,Doberman Pinscher
+22,25,65,70,,,English Foxhound
+23,27,45,80,,,English Setter
+22,26,75,90,,95%,German Shepherd Dog
+20,27,50,80,,85%,German Shorthaired Pointer
+22,26,60,70,,,German Wirehaired Pointer
+25,28,70,75,,,Giant Schnauzer
+21,24,55,75,,95%,Golden Retriever
+23,27,45,80,,,Gordon Setter
+27,30,60,70,,,Greyhound
+25,27,60,70,,,Irish Setter
+26.5,35.5,80,135,,,Komondor
+21,24,55,80,,95%,Labrador Retriever
+20,24,60,65,,,Old English Sheepdog (Bobtail)
+15,25,45,45,,95%,Poodle Standard
+24,27,70,85,,,Rhodesian Ridgeback
+28,32,75,110,,,Scottish Deerhound
+23,28,65,80,,,Spinone Italiano
+24,26,140,170,,,Tibetan Mastiff
+25,27,70,85,,85%,Weimaraner
+22,24,45,45,,,Airdale Terrier
+17,19,40,50,,,American Staffordshire Terrier
+15,18,25,45,,,American Water Spaniel
+17,20,35,45,,95%,Australian Cattle Dog
+18,23,40,60,,,Australian Shepherd
+14,14,40,50,,,Basset Hound
+20,22,40,60,,,Bearded Collie
+19,21,40,40,,95%,Border Collie
+17,21,30,40,,85%,Brittany
+12,16,50,60,,,Bull Dog
+21,22,50,70,,,Bull Terrier
+19,24,35,55,,,Canaan Dog
+18,20,45,55,,,Chinese Shar Pei
+19,22,45,55,,,Chow Chow
+15,16,22,28,,85%,Cocker Spaniel-American
+15,17,25,35,,85%,Cocker Spaniel-English
+19,23,45,70,,,Dalmatian
+20,20,45,55,,85%,English Springer Spaniel
+18,18,35,50,,,Field Spaniel
+22,23,60,70,,85%,Flat Coated Retriever
+15,20,31,35,,,Finnish Spitz
+19,21,40,60,,,Harrier
+22,29,42,55,,,Ibizan Hound
+18,19,25,27,,,Irish Terrier
+10,23,45,65,,85%,Irish Water Spaniel
+17,19,35,50,,85%,Keeshond
+17,21,30,45,,,Kerry Blue Terrier
+19,20,40,60,,,Norwegian Elkhound
+17,21,35,50,,,Nova Scotia Duck Tolling Retriever
+13,15,30,40,,,Petit Basset Griffon Vendeen
+21,25,45,55,,,Pharaoh Hound
+20,24,45,55,,,Plott Hound
+21,24,44,66,,,Pointer
+16,20,30,35,,,Polish Lowland Sheepdog
+20,23,42,60,,,Portuguese Water Dog
+21,27,50,70,,,Redbone Coonhound
+23,28,35,70,,,Saluki
+19,24,50,65,,,Samoyed
+20,23,40,60,,,Siberian Husky
+18,20,35,45,,,Soft-Coated Wheaten Terrier
+14,16,24,28,,,Staffordshire Bull Terrier
+17,19,33,33,,85%,Standard Schnauzer
+15,16,40,45,,,Sussex Spaniel
+48,66,22,25,,85%,Vizsla
+16,19,35,45,,,Welsh Springer Spaniel
+20,24,45,60,,,Wirehaired Pointing Griffon
+9,19,25,30,,,American Eskimo
+10,10,10,14,,,Australian Terrier
+17,17,20,22,,,Basenji
+13,16,18,30,,,Beagle
+15,16,18,23,,,Bedlington Terrier
+9.5,11.5,10,18,,,Bichon Frise
+12,15,12,15,,,Border Terrier
+14,15,15,25,,,Boston Terrier
+7,8,6,12,,,Brussels Griffon
+9,10,14,14,,,Cairn Terrier
+10,12,25,35,,85%,Cardigan Welsh Corgi
+10,15,15,20,,,Cavalier King Charles Spaniel
+not found,not found,not found,not found,,,Coton de Tulear
+7,10,16,32,,,Dachshund
+18,24,8,11,,,Dandie Dinmont Terrier
+10,10,9,15,,,English Toy Spaniel
+13,16,15,20,,,Fox Terrier Smooth
+13,16,15,20,,,Fox Terrier Wirehair
+11,12,17,28,,,French Bulldog
+16,19,25,35,,,German Pinscher
+14,14,34,36,,,Glen Imaal Terrier
+13,14,15,17,,,Lakeland Terrier
+15,16,17,18,,,Manchester Terrier (Standard)
+10,15,20,20,,95%,Poodle Miniature
+10,11,14,22,,,Pug
+16,17,29,33,,,Puli
+10,13,12,18,,85%,Schipperke
+10,12,18,22,,,Scottish Terrier
+12,12,18,20,,,Sealyham Terrier
+13,16,14,20,,95%,Shetland Sheepdog (Sheltie)
+13,16,15,30,,,Shiba Inu
+8,11,9,16,,,Shih Tzu
+9,10,8,11,,,Silky Terrier
+10,10,25,25,,,Skye Terrier
+10,10,9,15,,,Tibetan Spaniel
+14,17,20,30,,,Tibetan Terrier
+15,15,20,21,,,Welsh Terrier
+11,11,13,15,,,West Highland White Terrier
+18,22,27,30,,,Whippet
+9,12,8,12,,,Affenpinscher
+6,9,2,5,,,Chihuahua
+11,13,5,12,,,Chinese Crested
+12,15,6,10,,,Italian Greyhound
+8,11,4,11,,,Japanese Chin
+8,10,4,6,,,Maltese
+10,12,6,8,,,Manchester Terrier (Toy)
+8,11,5,10,,95%,Papillon
+12,12,3,7,,85%,Pomeranian
+10,10,10,10,,95%,Poodle Toy
+10,10,4,7,,,Toy Fox Terrier
+8,8,3,7,,,Yorkshire Terrier
