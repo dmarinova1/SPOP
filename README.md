@@ -16,5 +16,7 @@ To significantly reduce the complexity of the program, Scikit-learn library will
 documentation scikit-learn helped build this SPOP program providing details on modules, methods, parameters specification:
 https://scikit-learn.org/stable/documentation.html 
 
-SPOPv0.ipynb is the jupyter notebook containing the code of the SPOP-PROG.
+SPOPv#.ipynb is the jupyter notebook containing the code of the SPOP-PROG.
 data-breed.csv is the dataset.
+
+- Note: naming conventions of the ipynb file: since the SPOP is created incrementaly, the version of the program is indicated as version 'v' followed by a number.
