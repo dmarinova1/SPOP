@@ -1,7 +1,7 @@
 # SPOP
 Software Engineering 1
 - 
-This SPOP (Small Propriety Original Program) is a dog breed classifier using the K-Nearest-Neghbor Classifier. The program is given a dataset in csv format, containing obedience,lifespan in years, body length in inches, neck size in inches, low and high values for both height and weight, 3 dog sizes (small, medium, big) and dog breeds (small dogs: french bulldog, chihuahua, pomeranian, poodle; medium-dogs: siberian husky, dalmatian, boxer and big dogs: great dane, saint bernard, mastiff)
+This SPOP (Small Propriety Original Program) is a dog breed classifier using the K-Nearest-Neghbor Classifier.Linear Regression is also deployed to compare the accuracy score against that of k-NN. The program is given a dataset in csv format, containing obedience,lifespan in years, body length in inches, neck size in inches, low and high values for both height and weight, 3 dog sizes (small, medium, big) and dog breeds (small dogs: french bulldog, chihuahua, pomeranian, poodle; medium-dogs: siberian husky, dalmatian, boxer and big dogs: great dane, saint bernard, mastiff)
 - Note: the obedience column contains percentage data signifying the ability of the dog to obey first command. The data was gathered from: https://en.m.wikipedia.org/wiki/The_Intelligence_of_Dogs#cite_ref-ReferenceA_18-0 
 - Note: the lifespan data gathered from the wikipedia page of each canine
 
