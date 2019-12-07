@@ -18,7 +18,7 @@ https://scikit-learn.org/stable/documentation.html
 
 - SPOPv#.ipynb is the jupyter notebook containing the code of the SPOP-PROG.
 - data-breed.csv is the dataset.
-- SPOP_v0_35_colab.ipynb is the Google Colab notebook that can be used to run the code outside the Anaconda Distribution environment.
+- SPOP_v0_37_colab.ipynb is the Google Colab notebook that can be used to run the code outside the Anaconda Distribution environment.
 
 - Note: naming conventions of the ipynb file: since the SPOP is created incrementaly, the version of the program is indicated as version 'v' followed by a number.
 
